@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 215.03 240.79" height="100%" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xml:space="preserve" width="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+<metadata>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting value="false" key="WDCMYKEnabledKey"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting value="true" key="VNDimensionsVisible"/>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting value="true" key="VNSnapToGuides"/>
+<vectornator:setting value="Pixels" key="WDUnits"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting value="true" key="WDGuidesVisible"/>
+<vectornator:setting value="false" key="WDDynamicGuides"/>
+<vectornator:setting value="false" key="WDDisplayWhiteBackground"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting value="false" key="WDIsolateActiveLayer"/>
+</metadata>
+<defs/>
+<g id="Ebene 1" vectornator:layerName="Ebene 1">
+<path stroke-linecap="butt" stroke-linejoin="miter" fill="none" stroke-width="7" d="M135.115+32.0753C135.115+44.2666+144.995+54.158+157.183+54.158C169.396+54.158+179.273+44.2666+179.273+32.0753C179.273+19.8914+169.396+10+157.183+10C144.995+10+135.115+19.8914+135.115+32.0753ZM135.115+101.996L153.959+120.84C156.031+122.912+158.839+124.075+161.768+124.075L195.31+124.075C200.123+124.075+204.506+120.612+204.988+115.825C205.536+110.316+201.227+105.676+195.832+105.676L167.446+105.676L146.806+84.616M79.5569+134.577L59.3104+160.873L21.6657+160.873C15.6897+160.873+10.3282+165.348+10.0154+171.32C9.68418+177.686+14.7476+182.952+21.0402+182.952L67.3141+182.952C70.6333+182.952+73.7722+181.462+75.8697+178.89L97.0434+152.921" stroke="#32342f" opacity="1"/>
+<path stroke-linecap="butt" stroke-width="7" fill="none" opacity="1" stroke="#32342f" d="M142.475+219.751L142.475+161.988C142.475+158.93+141.205+156.008+138.971+153.922L115.932+132.399L145.963+87.7622C150.5+81.0171+148.712+71.8727+141.967+67.3318L129.522+58.9565C125.879+56.5057+121.588+55.1957+117.198+55.1957L72.4658+55.1957C69.5367+55.1957+66.729+56.3585+64.6609+58.4303L37.2645+85.8267C33.8607+89.2305+33.2094+94.7797+36.2563+98.5037C39.7595+102.787+46.0888+103.023+49.9048+99.2102L73.6581+75.4569L105.444+78.4743L83.2698+111.435C75.8329+122.485+78.0518+137.381+88.3774+145.79L120.396+171.857L120.396+219.751C120.396+225.848+125.338+230.79+131.435+230.79L131.435+230.79C137.533+230.79+142.475+225.848+142.475+219.751Z" stroke-linejoin="miter"/>
+<path stroke-width="7" stroke-linejoin="miter" opacity="1" stroke="#32342f" stroke-linecap="butt" d="M246.63+170.63L316.788+188.819L273.618+200.583L241.111+192.155L246.63+170.63Z" fill="none"/>
+<path stroke-linecap="butt" fill="none" stroke="#32342f" stroke-linejoin="miter" opacity="1" stroke-width="7" d="M241.327+209.051L390.389+170.417L395.928+191.788L246.866+230.422L241.327+209.051Z"/>
+<path d="M376.332+130.892C376.332+130.34+376.332+129.788+376.332+128.684C376.332+128.132+376.332+128.132+376.332+128.132C376.332+114.334+371.365+101.639+363.638+91.7048C363.086+90.0491+362.534+87.8414+362.534+86.1856C365.294+70.7317+369.157+51.9662+348.736+37.6162C350.944+50.8624+348.736+64.6605+337.698+64.6605C326.659+64.6605+337.146+45.895+326.659+29.3373C321.14+20.5065+310.101+9.46798+293.544+10.0199C316.173+23.2661+306.238+65.2124+299.063+70.1798C288.024+78.4586+288.024+54.1739+271.467+54.1739C278.09+57.4855+274.778+79.0106+270.915+87.2894C268.155+92.8087+263.188+103.295+260.98+118.749C260.428+122.061+259.876+125.372+259.876+128.684C259.876+129.236+259.876+129.236+259.876+129.788C259.876+130.34+259.876+130.892+259.876+131.443L259.876+131.443C261.532+161.799+289.68+181.117+320.588+181.117C352.6+180.565+375.229+161.799+376.332+130.892L376.332+130.892Z" stroke-linejoin="miter" stroke="#32342f" opacity="1" stroke-width="7" stroke-linecap="butt" fill="none"/>
+<path stroke="#32342f" stroke-linecap="butt" fill="none" d="M332.178+114.334C335.49+123.717+334.938+130.892+326.659+130.892C315.069+130.892+312.861+123.717+315.621+118.749C327.211+96.1202+324.451+92.8087+315.621+81.2183C320.588+106.607+293.544+109.366+293.544+142.482C293.544+157.936+305.686+170.078+321.14+170.078C336.594+170.078+348.736+157.936+348.736+142.482C349.288+135.307+345.425+122.613+332.178+114.334Z" stroke-linejoin="miter" opacity="1" stroke-width="7"/>
+<path opacity="1" stroke-linecap="butt" fill="none" stroke-width="7" d="M595.377+10C559.812+10+530.98+22.3564+530.98+37.5987C530.98+52.8411+559.812+65.1975+595.377+65.1975C630.943+65.1975+659.774+52.8411+659.774+37.5987C659.774+22.3564+630.943+10+595.377+10ZM503.382+101.996C467.816+101.996+438.984+114.352+438.984+129.595C438.984+144.837+467.816+157.193+503.382+157.193C538.947+157.193+567.779+144.837+567.779+129.595C567.779+114.352+538.947+101.996+503.382+101.996ZM567.779+166.393C567.779+181.627+538.947+193.992+503.382+193.992C467.816+193.992+438.984+181.627+438.984+166.393" stroke="#32342f" stroke-linejoin="miter"/>
+<path d="M438.984+129.595L438.984+203.191C438.984+218.426+467.816+230.79+503.382+230.79C538.947+230.79+567.779+218.426+567.779+203.191C567.779+200.891+567.779+129.595+567.779+129.595M659.774+74.3971C659.774+89.6316+630.943+101.996+595.377+101.996C559.812+101.996+530.98+89.6316+530.98+74.3971" stroke-linejoin="miter" opacity="1" stroke-linecap="butt" stroke-width="7" stroke="#32342f" fill="none"/>
+<path fill="none" stroke-width="7" stroke-linejoin="miter" stroke="#32342f" stroke-linecap="butt" d="M659.774+111.195C659.774+126.43+630.943+138.794+595.377+138.794C585.358+138.794+575.881+137.818+567.429+136.069" opacity="1"/>
+<path d="M567.757+172.934C576.131+174.642+585.5+175.592+595.377+175.592C630.943+175.592+659.774+163.228+659.774+147.994L659.774+37.5988M530.98+37.5988L530.98+104.296" stroke-linecap="butt" fill="none" stroke-width="7" stroke="#32342f" opacity="1" stroke-linejoin="miter"/>
+<path opacity="1" stroke-width="7" stroke-linejoin="miter" stroke-linecap="butt" stroke="#32342f" d="M362.115+200.571L395.65+209.265L390.131+230.79L318.309+212.17L362.115+200.571Z" fill="none"/>
+</g>
+</svg>

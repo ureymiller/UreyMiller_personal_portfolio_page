@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 200.65 240.79" height="100%" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting value="false" key="WDCMYKEnabledKey"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting value="true" key="VNSnapToGuides"/>
+<vectornator:setting key="WDUnits" value="Pixels"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting value="false" key="WDIsolateActiveLayer"/>
+</metadata>
+<defs/>
+<g id="Ebene 1" vectornator:layerName="Ebene 1">
+<path fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7" stroke="#32342f" opacity="1" d="M190.646+230.79L30.0718+230.79C18.9821+230.79+10+221.808+10+210.718L10+30.0718C10+18.9821+18.9821+10+30.0718+10L190.646+10L190.646+230.79Z"/>
+<path fill="none" stroke-linejoin="miter" stroke="#32342f" d="M10+210.718C10+199.629+18.9821+190.646+30.0718+190.646L190.646+190.646M50.1436+60.1795L160.539+60.1795" opacity="1" stroke-width="7" stroke-linecap="butt"/>
+<path d="M346.17+32.0753C346.17+44.2666+356.05+54.158+368.238+54.158C380.451+54.158+390.328+44.2666+390.328+32.0753C390.328+19.8914+380.451+10+368.238+10C356.05+10+346.17+19.8914+346.17+32.0753ZM346.17+101.996L365.014+120.84C367.086+122.912+369.894+124.075+372.823+124.075L406.365+124.075C411.178+124.075+415.561+120.612+416.043+115.825C416.591+110.316+412.282+105.676+406.887+105.676L378.501+105.676L357.861+84.616M290.612+134.577L270.365+160.873L232.721+160.873C226.745+160.873+221.383+165.348+221.07+171.32C220.739+177.686+225.803+182.952+232.095+182.952L278.369+182.952C281.688+182.952+284.827+181.462+286.925+178.89L308.098+152.921" stroke-width="7" opacity="1" fill="none" stroke-linejoin="miter" stroke="#32342f" stroke-linecap="butt"/>
+<path stroke-linejoin="miter" fill="none" d="M353.53+219.751L353.53+161.988C353.53+158.93+352.26+156.008+350.026+153.922L326.987+132.399L357.018+87.7622C361.555+81.0171+359.767+71.8727+353.022+67.3318L340.577+58.9565C336.934+56.5057+332.643+55.1957+328.253+55.1957L283.521+55.1957C280.592+55.1957+277.784+56.3585+275.716+58.4303L248.32+85.8267C244.916+89.2305+244.264+94.7797+247.311+98.5037C250.814+102.787+257.144+103.023+260.96+99.2102L284.713+75.4569L316.499+78.4743L294.325+111.435C286.888+122.485+289.107+137.381+299.432+145.79L331.451+171.857L331.451+219.751C331.451+225.848+336.393+230.79+342.49+230.79L342.49+230.79C348.588+230.79+353.53+225.848+353.53+219.751Z" stroke-width="7" stroke-linecap="butt" opacity="1" stroke="#32342f"/>
+<path stroke="#32342f" fill="none" stroke-linejoin="miter" stroke-width="7" d="M457.685+170.63L527.843+188.819L484.673+200.583L452.166+192.155L457.685+170.63Z" opacity="1" stroke-linecap="butt"/>
+<path fill="none" stroke-linecap="butt" d="M452.382+209.051L601.444+170.417L606.983+191.788L457.921+230.422L452.382+209.051Z" opacity="1" stroke-linejoin="miter" stroke-width="7" stroke="#32342f"/>
+<path d="M587.387+130.892C587.387+130.34+587.387+129.788+587.387+128.684C587.387+128.132+587.387+128.132+587.387+128.132C587.387+114.334+582.42+101.639+574.693+91.7048C574.141+90.0491+573.589+87.8414+573.589+86.1856C576.349+70.7317+580.212+51.9662+559.791+37.6162C561.999+50.8624+559.791+64.6605+548.753+64.6605C537.714+64.6605+548.201+45.895+537.714+29.3373C532.195+20.5065+521.156+9.46798+504.599+10.0199C527.228+23.2661+517.293+65.2124+510.118+70.1798C499.079+78.4586+499.079+54.1739+482.522+54.1739C489.145+57.4855+485.833+79.0106+481.97+87.2894C479.21+92.8087+474.243+103.295+472.035+118.749C471.483+122.061+470.931+125.372+470.931+128.684C470.931+129.236+470.931+129.236+470.931+129.788C470.931+130.34+470.931+130.892+470.931+131.443L470.931+131.443C472.587+161.799+500.735+181.117+531.643+181.117C563.655+180.565+586.284+161.799+587.387+130.892L587.387+130.892Z" stroke-linejoin="miter" fill="none" stroke-linecap="butt" opacity="1" stroke="#32342f" stroke-width="7"/>
+<path stroke-width="7" fill="none" stroke-linejoin="miter" stroke="#32342f" d="M543.233+114.334C546.545+123.717+545.993+130.892+537.714+130.892C526.124+130.892+523.916+123.717+526.676+118.749C538.266+96.1202+535.506+92.8087+526.676+81.2183C531.643+106.607+504.599+109.366+504.599+142.482C504.599+157.936+516.741+170.078+532.195+170.078C547.649+170.078+559.791+157.936+559.791+142.482C560.343+135.307+556.48+122.613+543.233+114.334Z" opacity="1" stroke-linecap="butt"/>
+<path stroke="#32342f" stroke-width="7" stroke-linecap="butt" d="M806.432+10C770.867+10+742.035+22.3564+742.035+37.5987C742.035+52.8411+770.867+65.1975+806.432+65.1975C841.998+65.1975+870.829+52.8411+870.829+37.5987C870.829+22.3564+841.998+10+806.432+10ZM714.437+101.996C678.871+101.996+650.039+114.352+650.039+129.595C650.039+144.837+678.871+157.193+714.437+157.193C750.002+157.193+778.834+144.837+778.834+129.595C778.834+114.352+750.002+101.996+714.437+101.996ZM778.834+166.393C778.834+181.627+750.002+193.992+714.437+193.992C678.871+193.992+650.039+181.627+650.039+166.393" stroke-linejoin="miter" fill="none" opacity="1"/>
+<path stroke-width="7" fill="none" opacity="1" d="M650.039+129.595L650.039+203.191C650.039+218.426+678.871+230.79+714.437+230.79C750.002+230.79+778.834+218.426+778.834+203.191C778.834+200.891+778.834+129.595+778.834+129.595M870.829+74.3971C870.829+89.6316+841.998+101.996+806.432+101.996C770.867+101.996+742.035+89.6316+742.035+74.3971" stroke-linejoin="miter" stroke-linecap="butt" stroke="#32342f"/>
+<path fill="none" stroke="#32342f" d="M870.829+111.195C870.829+126.43+841.998+138.794+806.432+138.794C796.413+138.794+786.936+137.818+778.484+136.069" stroke-width="7" stroke-linejoin="miter" stroke-linecap="butt" opacity="1"/>
+<path stroke-linecap="butt" stroke="#32342f" opacity="1" fill="none" stroke-width="7" d="M778.812+172.934C787.186+174.642+796.555+175.592+806.432+175.592C841.998+175.592+870.829+163.228+870.829+147.994L870.829+37.5988M742.035+37.5988L742.035+104.296" stroke-linejoin="miter"/>
+<path stroke-width="7" opacity="1" stroke-linecap="butt" stroke-linejoin="miter" stroke="#32342f" fill="none" d="M573.17+200.571L606.705+209.265L601.186+230.79L529.364+212.17L573.17+200.571Z"/>
+</g>
+</svg>
