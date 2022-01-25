@@ -76,6 +76,7 @@ article h2 {
     list-style: none;
     display: flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
     gap: 5vw;
 }
 .navbar .nav-links a {
